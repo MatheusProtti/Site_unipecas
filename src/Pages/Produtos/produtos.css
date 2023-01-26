@@ -1,0 +1,31 @@
+.contentProdutos {
+    height: 100vh;
+    /* color: red; */
+    /* background-color: aqua; */
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    /* background-color: aqua; */
+}
+
+.inicio {
+    background-image: url(../../Images/fundo1.jpg);
+}
+.contentProdutos h3, p {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.primeirasFotos {
+    display: flex;
+    justify-content: center;
+    border: 1px solid red;
+}
+
+.fotos {
+    height: 200px;
+    padding-left: 15px;
+    
+}

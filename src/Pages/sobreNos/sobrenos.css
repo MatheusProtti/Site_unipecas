@@ -1,0 +1,11 @@
+.secaoUm {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+/* ImgemIlustrativa1.jpeg
+background-image: url(../../Images/ImgemIlustrativa3.jpeg); */

@@ -1,0 +1,11 @@
+.contentFooter {
+    background-color: #cb4c46;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.infoFooter {
+    text-align: center;
+    display: block;
+}
